@@ -21,6 +21,9 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.currentBackStackEntryAsState
 import com.example.bookbooksearch.MainViewModel
 import com.example.bookbooksearch.dataClass.BottomNavItem
+import com.example.bookbooksearch.ui.screen.DetailScreen
+import com.example.bookbooksearch.ui.screen.FavoriteScreen
+import com.example.bookbooksearch.ui.screen.SearchScreen
 
 object Nav {
 
